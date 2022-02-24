@@ -1,0 +1,254 @@
+[2022-01-10 00:06:45] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:46] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:47] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:48] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:49] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:50] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:51] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:52] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:53] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:54] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:55] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:56] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:57] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:58] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:06:59] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:00] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:01] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:02] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:03] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:04] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:05] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:06] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:07] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:08] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:09] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:10] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:11] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:12] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:13] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:14] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:15] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:16] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:17] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:18] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:19] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:20] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:21] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:22] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:23] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:25] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:26] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:27] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:28] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:29] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:30] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:31] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:32] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:33] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:34] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:35] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:36] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:37] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:38] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:39] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:40] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:41] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:42] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:43] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:44] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:45] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:46] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:47] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:48] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:49] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:50] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:51] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:52] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:53] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:54] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:55] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:56] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:57] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:58] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:07:59] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:00] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:01] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:02] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:03] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:04] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:05] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:06] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:07] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:08] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:09] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:10] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:11] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:12] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:13] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:14] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:15] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:16] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:17] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:23] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:23] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:23] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:23] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:23] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:23] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:24] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:24] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:24] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:24] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:24] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:24] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:25] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:25] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:25] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:25] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:25] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:25] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:26] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:26] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:26] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:26] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:26] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:26] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:27] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:27] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:27] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:27] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:27] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:27] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:28] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:28] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:28] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:28] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:28] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:28] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:29] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:29] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:29] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:29] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:29] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:29] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:30] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:30] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:31] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:31] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:31] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:31] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:32] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:32] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:32] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:32] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:32] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:32] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:33] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:33] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:33] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:33] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:33] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:33] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:34] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:34] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:34] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:34] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:34] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:34] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:35] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:35] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:35] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:35] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:35] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:35] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:36] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:36] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:36] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:36] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:36] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:36] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:37] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:37] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:37] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:37] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:37] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:37] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:38] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:38] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:38] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:38] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:38] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:38] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:39] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:39] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:39] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:39] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:39] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:39] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:40] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:40] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:40] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:40] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:40] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:40] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:41] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:41] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:41] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:41] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:41] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:41] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:42] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:42] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:42] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:42] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:42] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:43] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:44] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:44] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:44] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:44] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:44] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:44] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:45] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:45] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:45] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:45] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:45] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:45] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:46] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:46] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:46] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:46] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:46] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:46] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:47] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:47] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:47] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:47] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:47] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:47] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:48] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:48] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:48] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:48] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:48] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:48] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:49] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:49] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:49] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:49] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:49] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:49] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:50] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:50] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:50] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:50] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:50] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:50] [FALTAL] [test.go:main:30] This is Faltal log
+[2022-01-10 00:08:51] [ERROR] [test.go:main:25] This is Error log
+[2022-01-10 00:08:51] [TRACE] [test.go:main:26] This is TraceError log
+[2022-01-10 00:08:51] [DEBUG] [test.go:main:27] This is Debug log user:rekkles
+[2022-01-10 00:08:51] [INFO] [test.go:main:28] This is Info log
+[2022-01-10 00:08:51] [WARNING] [test.go:main:29] This is Warning log
+[2022-01-10 00:08:51] [FALTAL] [test.go:main:30] This is Faltal log
