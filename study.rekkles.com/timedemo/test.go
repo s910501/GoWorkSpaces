@@ -49,14 +49,14 @@ func main() {
 
 	// next day
 	time.Parse("2006-01-02 15:04:05", "2022-01-19 01:45:00")
-	loc, err := time.LoadLocation("Asia/Shanghai")
+	loc, err := time.LoadLocation("Asia/Shanghai1")
 	if err != nil {
-		fmt.Println("load location failed %v", err)
+		fmt.Printf("load location failed %v", err)
 		return
 	}
 	timeObj2, err := time.ParseInLocation("2006-01-02 15:04:05", "2022-01-08 02:45:00", loc)
 	if err != nil {
-		fmt.Println("time parse failed %v", err)
+		fmt.Printf("time parse failed %v", err)
 		return
 	}
 	fmt.Println(timeObj2)
