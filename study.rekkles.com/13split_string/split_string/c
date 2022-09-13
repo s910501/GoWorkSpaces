@@ -1,0 +1,10 @@
+mode: set
+study.rekkles.com/13split_string/split_string/split.go:5.45,8.17 3 1
+study.rekkles.com/13split_string/split_string/split.go:13.2,14.12 2 1
+study.rekkles.com/13split_string/split_string/split.go:8.17,12.3 3 1
+study.rekkles.com/13split_string/split_string/split_test copy.go:8.31,11.35 3 0
+study.rekkles.com/13split_string/split_string/split_test copy.go:11.35,13.3 1 0
+study.rekkles.com/13split_string/split_string/split_test copy.go:16.31,19.35 3 0
+study.rekkles.com/13split_string/split_string/split_test copy.go:19.35,21.3 1 0
+study.rekkles.com/13split_string/split_string/split_test copy.go:24.31,27.35 3 0
+study.rekkles.com/13split_string/split_string/split_test copy.go:27.35,29.3 1 0
